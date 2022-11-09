@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(17, 229, 229);
+}
+h2{
+    text-align: center;
+    color: black;
+}
+form{
+    text-align:left;
+     font-weight: 600;
+     font-size: large;
+     margin-left: 10%;
+}
+
+input{
+    
+    font-weight: lighter;
+    padding: 10px 40px;
+    font-style: normal;
+    font-size: 20px;
+}
+button{
+    display: block;
+    background:green;
+    padding: 10px 25px;
+    margin-top: 4px;
+}
+
+button:hover{
+    border-color:wheat;
+    transform:translate(-5);
+}
